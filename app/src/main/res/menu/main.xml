@@ -4,22 +4,29 @@
     <item
         android:title="Privacy Policy"
         android:id="@+id/id_privacy"
-        android:orderInCategory="1000"
+        android:orderInCategory="100"
 
         />
     <item
-
-
-        />
-    <item
-
+        android:title="Terms &amp; Conditions"
+        android:id="@+id/id_terms"
+        android:orderInCategory="101"
 
         />
     <item
-
-
+        android:title="Rate Us"
+        android:id="@+id/id_rate"
+        android:orderInCategory="102"
         />
     <item
+        android:title="Cans Hospitals"
+        android:id="@+id/id_hospitals"
+        android:orderInCategory="103"
+        />
+    <item
+        android:title="Share"
+        android:id="@+id/id_share"
+        android:orderInCategory="104"
 
 
         />

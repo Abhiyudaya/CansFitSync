@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513091811622",
+    "project_id": "cans-fit-sync",
+    "storage_bucket": "cans-fit-sync.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513091811622:android:e7ba82feb8768fae43a9e7",
+        "android_client_info": {
+          "package_name": "com.example.cansfit_sync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB28mSAKcb-H2SCW1ziGi9vAC-TAu7zMEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
