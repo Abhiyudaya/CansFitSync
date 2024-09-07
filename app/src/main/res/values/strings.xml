@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name">Cans Fit-Sync</string>
+
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support. \n\n
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.\n\n
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+    <string-array name="title_story">
+
+        <item>Build For Muscles</item>
+        <item>Replace Coffee with Matcha Green Tea</item>
+        <item>Just Keep Moving</item>
+        <item>Stop Counting Calories</item>
+        <item>Pick Up a Kettlebell</item>
+        <item>Do Yoga</item>
+        <item>Get Intense</item>
+        <item>Stop Sleeping In</item>
+        <item>Make One Meal a Day Vegan</item>
+        <item>Go Green</item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>"Build for Muscles\n"
+    "- Strength Training: Focus on compound exercises such as squats, deadlifts, and bench presses to target multiple muscle groups. Incorporate both free weights and resistance machines for a comprehensive workout.\n"
+    "- Progressive Overload: Gradually increase the weights or resistance you use to challenge your muscles and promote growth.\n"
+    "- Proper Nutrition: Ensure you're consuming enough protein to support muscle repair and growth. Include a balance of carbohydrates and healthy fats in your diet.\n"
+    "- Rest and Recovery: Allow adequate time for muscle recovery between workouts to prevent overtraining and injuries."</item>
+        <item>"Replace Coffee with Matcha Green Tea\n"
+    "- Steady Energy: Matcha provides a more sustained energy boost compared to coffee, thanks to its L-theanine content, which promotes calm alertness.\n"
+    "- Antioxidants: Rich in antioxidants like EGCG, matcha helps fight free radicals, supports metabolism, and contributes to overall health.\n"
+    "- Lower Caffeine: Matcha contains less caffeine than coffee, reducing the risk of jitters and anxiety.\n"
+    "- Enhanced Focus: The combination of caffeine and L-theanine in matcha improves concentration and mental clarity."</item>
+        <item>Just Keep Moving\n"
+    "- Daily Activity: Incorporate movement into your daily routine, whether it\'s walking, stretching, or light exercises.\n"
+    "- Small Efforts Count: Take the stairs, do desk stretches, or go for short walks to stay active throughout the day.\n"
+    "- Improved Circulation: Regular movement boosts blood flow, increases energy, and aids in calorie burning.\n"
+    "- Mental Benefits: Staying active helps reduce stress, improve mood, and enhance overall mental well-being."</item>
+        <item>Stop Counting Calories\n"
+    "- Focus on Quality: Emphasize eating whole, nutrient-dense foods rather than obsessing over calorie counts.\n"
+    "- Listen to Your Body: Pay attention to hunger cues and practice mindful eating to avoid overeating.\n"
+    "- Balanced Meals: Prioritize portion control and ensure your meals include a variety of nutrients for overall health.\n"
+    "- Healthy Relationship with Food: Reducing calorie obsession helps foster a more positive and sustainable approach to eating."</item>
+        <item>Pick Up a Kettlebell\n"
+    "- Full-Body Workout: Kettlebell exercises, such as swings, cleans, and snatches, engage multiple muscle groups for effective conditioning.\n"
+    "- Cardiovascular and Strength Benefits: These dynamic movements improve both cardiovascular health and muscular strength.\n"
+    "- Versatility: Kettlebells offer a range of exercises that can be tailored to different fitness levels and goals.\n"
+    "- Functional Strength: The use of kettlebells enhances core stability and overall functional strength."</item>
+        <item>Do Yoga\n"
+    "- Flexibility and Strength: Yoga improves flexibility, builds strength, and enhances balance through various postures and stretches.\n"
+    "- Mental Clarity: Breathing exercises and meditation in yoga reduce stress, calm the mind, and improve focus.\n"
+    "- Overall Well-Being: Regular practice supports physical health, emotional balance, and mental relaxation.\n"
+    "- Adaptable Practice: Yoga can be modified to suit different fitness levels and health conditions.</item>
+        <item>Get Intense\n"
+    "- High-Intensity Workouts: Engage in high-intensity exercises like sprints, HIIT, or circuit training to maximize calorie burn and improve endurance.\n"
+    "- Short Duration: Intense workouts are typically shorter but more effective at increasing cardiovascular fitness and muscle strength.\n"
+    "- Metabolic Boost: High-intensity training elevates metabolism, leading to more significant fat loss and improved overall fitness.\n"
+    "- Overcome Plateaus: Intense sessions can help break through fitness plateaus and enhance workout results.</item>
+        <item>Stop Sleeping In\n"
+    "- Early Routines: Start your day earlier to establish a consistent routine and make time for exercise, planning, and healthy habits.\n"
+    "- Internal Clock: Maintaining a regular sleep schedule helps regulate your body\'s internal clock, improving overall energy levels.\n"
+    "- Increased Productivity: Waking up early often leads to better productivity, focus, and motivation throughout the day.\n"
+    "- Healthy Habits: Early risers tend to have more time to incorporate positive lifestyle practices into their daily routine.</item>
+        <item>Make One Meal a Day Vegan\n"
+    "- Nutrient-Rich Meals: Opt for plant-based foods like fruits, vegetables, legumes, and whole grains to enrich your diet with essential nutrients.\n"
+    "- Health Benefits: Vegan meals can improve heart health, digestion, and energy levels while reducing the intake of processed foods and saturated fats.\n"
+    "- Sustainable Eating: Incorporating vegan meals supports environmental sustainability and reduces your carbon footprint.\n"
+    "- Exploration: Experiment with new recipes and ingredients to diversify your diet and discover delicious plant-based options.</item>
+        <item>Go Green\n"
+    "- Nutrient-Dense Greens: Incorporate vegetables like spinach, kale, and broccoli into your meals for their high vitamin, mineral, and antioxidant content.\n"
+    "- Health Benefits: Greens support digestion, boost immunity, and promote healthy skin while being low in calories and high in fiber.\n"
+    "- Energy and Vitality: Regular consumption of green vegetables can enhance your energy levels and overall vitality.\n"
+    "- Balanced Diet: Adding more greens helps create a well-rounded, nutritious diet that supports long-term health and well-being.</item>
+
+    </string-array>
+
+</resources>
