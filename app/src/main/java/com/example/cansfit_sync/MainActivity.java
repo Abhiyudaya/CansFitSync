@@ -1,5 +1,6 @@
 package com.example.cansfit_sync;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
@@ -7,6 +8,8 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
 
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
@@ -34,8 +37,8 @@ public class MainActivity extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolBar);
         setSupportActionBar(toolbar);
 
-        btn1 = findViewById(R.id.startYoga1);
-        btn2 = findViewById(R.id.startYoga2);
+        LinearLayout btn1 = findViewById(R.id.startYoga1);
+        LinearLayout btn2 = findViewById(R.id.startYoga2);
 
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override

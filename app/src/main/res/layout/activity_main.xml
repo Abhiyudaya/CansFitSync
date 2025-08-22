@@ -7,293 +7,249 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#D5CDCD"
+    android:background="@color/white"
     tools:context=".MainActivity">
-
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/toolBar"
         android:layout_width="match_parent"
         android:layout_height="?actionBarSize"
-        android:background="#2E2525"
+        android:background="@color/white"
+        app:titleTextColor="@color/black"
         android:textAlignment="textEnd"
         app:title="Cans Fit-Sync"
-        app:titleTextColor="@color/white"
         android:gravity="end"
         />
 
-    <ScrollView
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:scrollbars="none"
-        >
-        
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical"
+        android:padding="20dp">
+
         <LinearLayout
-            android:layout_marginTop="10dp"
+            android:id="@+id/startYoga1"
             android:layout_width="fill_parent"
-            android:orientation="vertical"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:layout_marginTop="15dp"
+            android:background="@drawable/background_crop1"
+            android:orientation="vertical">
 
             <LinearLayout
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_margin="10dp"
-                android:layout_marginTop="15dp"
-                android:background="@drawable/background_crop">
-                
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:onClick="beforeage18"
+                android:orientation="horizontal">
+
                 <LinearLayout
-                    android:onClick="beforeage18"
-                    android:layout_width="fill_parent"
-                    android:layout_height="150dp"
-                    android:layout_gravity="center"
-                    android:gravity="center"
-                    android:orientation="horizontal">
-
-                    <LinearLayout
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1.0"
-                        android:orientation="vertical"
-                        >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:fontFamily="monospace"
-                            android:padding="5dp"
-                            android:text="Before Age 18"
-                            android:textColor="#ff000000"
-                            android:textSize="20sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:fontFamily="serif"
-                            android:padding="5dp"
-                            android:text="Days 60"
-                            android:textSize="20sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:padding="5dp"
-                            android:text="Every Day 15 MIN"
-                            android:textColor="#ffff5722"
-                            android:textStyle="bold"
-                            />
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2">
-
-                        <pl.droidsonroids.gif.GifImageView
-                            android:layout_width="fill_parent"
-                            android:layout_height="wrap_content"
-                            android:src="@drawable/exersice_7"/>
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="0">
-                        
-                        <ImageView
-                            android:layout_width="40dp"
-                            android:layout_height="wrap_content"
-                            android:padding="10dp"
-                            android:src="@drawable/baseline_arrow_forward_ios_24"/>
-                        
-                    </LinearLayout>
-
-                </LinearLayout>
-                
-                <androidx.appcompat.widget.AppCompatButton
-                    android:id="@+id/startYoga1"
-                    android:layout_width="fill_parent"
+                    android:layout_width="360dp"
                     android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:text="Get Started"
-                    android:textAllCaps="true"
-                    android:textColor="#FFF"
-                    android:background="@drawable/btn"/>
-                
-            </LinearLayout>
+                    android:layout_weight="1.0"
+                    android:orientation="vertical">
 
-            <LinearLayout
-                android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:orientation="vertical"
-                android:layout_margin="10dp"
-                android:layout_marginTop="15dp"
-                android:background="@drawable/background_crop">
+                    <TextView
+                        android:layout_width="159dp"
+                        android:layout_height="69dp"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="monospace"
+                        android:padding="5dp"
+                        android:text="FULL BODY WORKOUT"
+                        android:textColor="#5F5B5B"
+                        android:textSize="25sp"
+                        android:textStyle="bold" />
 
-                <LinearLayout
-                    android:onClick="afterage18"
-                    android:layout_width="fill_parent"
-                    android:layout_height="150dp"
-                    android:layout_gravity="center"
-                    android:gravity="center"
-                    android:orientation="horizontal">
+                    <TextView
+                        android:layout_width="193dp"
+                        android:layout_height="41dp"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="serif"
+                        android:padding="5dp"
+                        android:text="DON’T LOSE YOUR FITNESS JUST BY GIVING 15 MINUTES A DAY."
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
 
-                    <LinearLayout
-                        android:layout_width="fill_parent"
+                    <TextView
+                        android:layout_width="193dp"
                         android:layout_height="wrap_content"
-                        android:layout_weight="1.0"
-                        android:orientation="vertical"
-                        >
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:fontFamily="monospace"
-                            android:padding="5dp"
-                            android:text="After Age 18"
-                            android:textColor="#ff000000"
-                            android:textSize="20sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:fontFamily="serif"
-                            android:padding="5dp"
-                            android:text="Days 60"
-                            android:textSize="20sp"
-                            android:textStyle="bold"/>
-
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:padding="5dp"
-                            android:text="Every Day 15 MIN"
-                            android:textColor="#ffff5722"
-                            android:textStyle="bold"
-                            />
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2">
-
-                        <pl.droidsonroids.gif.GifImageView
-                            android:layout_width="fill_parent"
-                            android:layout_height="wrap_content"
-                            android:src="@drawable/exersice_1"/>
-
-                    </LinearLayout>
-
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="0">
-
-                        <ImageView
-                            android:layout_width="40dp"
-                            android:layout_height="wrap_content"
-                            android:padding="10dp"
-                            android:src="@drawable/baseline_arrow_forward_ios_24"/>
-
-                    </LinearLayout>
+                        android:layout_marginLeft="10dp"
+                        android:padding="5dp"
+                        android:text=" 15 MIN     60 SESSIONS"
+                        android:textColor="#8A8686"
+                        android:textStyle="bold" />
 
                 </LinearLayout>
 
-                <androidx.appcompat.widget.AppCompatButton
-                    android:id="@+id/startYoga2"
-                    android:layout_width="fill_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_margin="10dp"
-                    android:text="Get Started"
-                    android:textAllCaps="true"
-                    android:textColor="#FFF"
-                    android:background="@drawable/btn"/>
+
+
+                <ImageView
+                    android:layout_width="110dp"
+                    android:layout_height="150dp"
+                    android:layout_marginEnd="45dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/workout2" />
+
 
             </LinearLayout>
-            
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/startYoga2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:padding="5dp"
+            android:background="@drawable/background_crop2"
+            android:orientation="vertical">
+
             <LinearLayout
-                android:onClick="food"
                 android:layout_width="fill_parent"
-                android:layout_height="wrap_content"
-                android:layout_margin="10dp"
-                android:layout_marginTop="15dp"
-                android:background="@drawable/background_crop"
-                android:orientation="vertical"
-                >
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:onClick="afterage18"
+                android:orientation="horizontal">
+
+                <LinearLayout
+                    android:layout_width="320dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1.0"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="monospace"
+                        android:padding="5dp"
+                        android:text="YOGA"
+                        android:textColor="#5F5B5B"
+                        android:textSize="25sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="171dp"
+                        android:layout_height="51dp"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="serif"
+                        android:padding="5dp"
+                        android:text="DON’T LOSE YOUR FITNESS JUST BY GIVING 15 MINUTES A DAY."
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:padding="5dp"
+                        android:text=" 15 MIN     60 SESSIONS"
+                        android:textColor="#8A8686"
+                        android:textStyle="bold" />
+
+
+                </LinearLayout>
 
                 <LinearLayout
                     android:layout_width="fill_parent"
-                    android:layout_height="150dp"
-                    android:layout_gravity="center"
-                    android:gravity="center"
-                    android:orientation="horizontal">
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2">
 
+                    <ImageView
+                        android:layout_width="120dp"
+                        android:layout_height="130dp"
+                        android:layout_marginLeft="20dp"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/yoga2" />
 
-                    <LinearLayout
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:orientation="vertical"
-                        >
-                        
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:fontFamily="monospace"
-                            android:padding="5dp"
-                            android:text="Nutrition and Tips"
-                            android:textColor="#ff000000"
-                            android:textSize="20dp"
-                            android:textStyle="bold"/>
-                        
-                        
-                        <TextView
-                            android:layout_width="wrap_content"
-                            android:layout_height="wrap_content"
-                            android:padding="5dp"
-                            android:text="Suggestion for free"
-                            android:textStyle="bold"/>
-                        
-                    </LinearLayout>
-                    
-                    <LinearLayout
-                        android:layout_width="fill_parent"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="2"
-                        >
+                </LinearLayout>
 
-                        <ImageView
-                            android:layout_width="fill_parent"
-                            android:layout_height="wrap_content"
-                            android:src="@drawable/food"/>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0">
 
-                    </LinearLayout>
-                    
-                    <LinearLayout
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="0">
-
-                        <ImageView
-                            android:layout_width="40dp"
-                            android:layout_height="wrap_content"
-                            android:padding="10dp"
-                            android:src="@drawable/baseline_arrow_forward_ios_24"/>
-
-                    </LinearLayout>
 
                 </LinearLayout>
 
             </LinearLayout>
 
         </LinearLayout>
-        
-    </ScrollView>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:padding="5dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:background="@drawable/background_crop3"
+            android:onClick="food"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="150dp"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:orientation="horizontal">
+
+
+                <LinearLayout
+                    android:layout_width="313dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="164dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="monospace"
+                        android:padding="5dp"
+                        android:text="NUTRITION &amp; TIPS"
+                        android:textColor="#5F5B5B"
+                        android:textSize="25sp"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:layout_width="171dp"
+                        android:layout_height="51dp"
+                        android:layout_marginLeft="10dp"
+                        android:fontFamily="serif"
+                        android:padding="5dp"
+                        android:text="DON’T LOSE YOUR FITNESS JUST BY GIVING 15 MINUTES A DAY."
+                        android:textColor="@color/white"
+                        android:textSize="10sp"
+                        android:textStyle="bold" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2">
+
+                    <ImageView
+                        android:layout_width="fill_parent"
+                        android:layout_height="140dp"
+                        android:scaleType="centerInside"
+                        android:src="@drawable/diet2" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0">
+
+                </LinearLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
 
 </LinearLayout>
